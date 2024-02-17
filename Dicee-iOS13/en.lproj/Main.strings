@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "0KS-Tu-LHE"; */
+"0KS-Tu-LHE.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0KS-Tu-LHE"; */
+"0KS-Tu-LHE.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Higher"; ObjectID = "0nd-lF-1lL"; */
+"0nd-lF-1lL.configuration.title" = "Higher";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0nd-lF-1lL"; */
+"0nd-lF-1lL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score:"; ObjectID = "3PN-Vr-NCc"; */
+"3PN-Vr-NCc.text" = "Score:";
+
+/* Class = "UIButton"; configuration.title = "Play"; ObjectID = "7Z6-nG-0nx"; */
+"7Z6-nG-0nx.configuration.title" = "Play";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7Z6-nG-0nx"; */
+"7Z6-nG-0nx.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Lower"; ObjectID = "EU4-wx-eC4"; */
+"EU4-wx-eC4.configuration.title" = "Lower";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EU4-wx-eC4"; */
+"EU4-wx-eC4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Player"; ObjectID = "UH9-BB-B6v"; */
+"UH9-BB-B6v.text" = "Player";
+
+/* Class = "UILabel"; text = "Dealer"; ObjectID = "VnF-B2-fKN"; */
+"VnF-B2-fKN.text" = "Dealer";
+
+/* Class = "UILabel"; text = "##"; ObjectID = "bVh-g1-J8h"; */
+"bVh-g1-J8h.text" = "##";
+
+/* Class = "UILabel"; text = "##"; ObjectID = "cBy-RY-pVP"; */
+"cBy-RY-pVP.text" = "##";
+
+/* Class = "UILabel"; text = "##"; ObjectID = "rqD-jN-H19"; */
+"rqD-jN-H19.text" = "##";
+
+/* Class = "UILabel"; text = "You lost!"; ObjectID = "tYs-fJ-vLc"; */
+"tYs-fJ-vLc.text" = "You lost!";
